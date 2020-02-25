@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "title": "Android is great", "author": "marc" }
+  ],
+  "comments": [
+    { "id": 1, "body": "...when it compiles", "postId": 1 }
+  ]
+}
